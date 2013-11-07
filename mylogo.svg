@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="809.05713"
+   height="776.14508"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="mylogo.svg"
+   inkscape:export-filename="/home/kot/Dropbox/12 - Изображения/mylogo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="429.7683"
+     inkscape:cy="325.17075"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     fit-margin-top="10"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-358.8218,-140.4336)">
+    <g
+       id="g3757"
+       transform="matrix(3.8728279,0,0,3.8728279,-1016.6843,-841.58311)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2985"
+         d="m 385.59539,256.52899 6.52895,0 -2.90176,194.48146 z"
+         style="fill:#000000;stroke:#000000;stroke-width:0.76219195px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cssc"
+         transform="translate(0,52.362183)"
+         inkscape:connector-curvature="0"
+         id="path2987"
+         d="m 360.11938,236.82975 c 0,0 42.71181,-12.01571 57.31872,11.40754 22.52737,36.12428 9.85173,109.77021 -29.53952,114.35645 -31.66645,3.68686 -38.09729,-44.47877 0,-41.92133"
+         style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3780"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3782"><rect
+           id="rect3784"
+           width="691.42859"
+           height="162.85715"
+           x="295.71429"
+           y="63.288773" /></flowRegion><flowPara
+         id="flowPara3786" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:123.38007355px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Barkentina Test;-inkscape-font-specification:Barkentina Test"
+       x="621.88654"
+       y="800.55432"
+       id="text3788-0-93"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3790-5-1"
+         x="621.88654"
+         y="800.55432">armor.tux</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.96663398px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 376.51599,274.28048 2.66156,8.34557 -6.77562,2.8622 3.29593,-6.55753 -6.39274,-2.81165 z"
+       id="path3009"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+  </g>
+</svg>
